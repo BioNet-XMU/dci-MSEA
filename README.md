@@ -12,8 +12,8 @@ The projects uses some packages. Go check them out if you don't have them locall
 All process in example file：  
 
 `dci_MSEA_for_phenotype_specifc.py`(group),  
-`dci_MSEA_for_individual_specific.py`(cancer sample),  
-`dci_MSEA_for_individual_specific_2.py`(control sample)
+`dci_MSEA_for_individual_specific.py`(sample),  
+
 
 
 **1.Construct general metabolite network**   
